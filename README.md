@@ -11,4 +11,4 @@ Create a file for your account list (```aws-accounts.csv```)
 
 ...From the command line (with python3 installed)
 
-```python sharr-remove-roles.py```
+```python remove-sharr-roles.py```
