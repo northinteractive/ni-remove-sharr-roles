@@ -3,7 +3,7 @@ import csv
 import time
 
 sts_client = boto3.client('sts')
-accountlist = 'magnet-accounts.csv'
+accountlist = 'aws-accounts.csv'
 rolelist = 'sharr-roles.csv'
 role_exists = False
 
